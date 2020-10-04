@@ -1,7 +1,7 @@
 # AgriAI
-Agriculture has been the backbone of human existence.Since time is immortal. It has also seen much advancement over
+Agriculture has been the backbone of human existence. Since time is immortal. It has also seen much advancement over
 the years. Agriculture sector of Indian economy is the mainstay of the rural Indian economy. Presently this sector
-accounts approx. 14% in the GDP.Agriculture in India is the core sector for food
+accounts approx. 14% in the GDP. Agriculture in India is the core sector for food
 security, nutritional security, and sustainable development &
 for poverty alleviation.Maintaining soil fertility, efficient soil fertility, most
 importantly time of farmers to gain better results. Precision
@@ -32,15 +32,9 @@ processed data can be sent to a database using wireless
 communication. The device will have a user interface so that
 the farmers, owners of the land can communicate with it. The
 system will tell what to do after analysing the input data
-
 which can be either fertility of soil or the quality of the crops
-
 or any infectious disease. For this, it will surely increase the
-
 productivity and even the system will analyse the soil
-
 conditions its features and tell the farmers which crop would
-
 be more profitable for him to grow based on data collected all
-
 over India.
