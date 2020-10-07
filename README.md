@@ -38,3 +38,11 @@ productivity and even the system will analyse the soil
 conditions its features and tell the farmers which crop would
 be more profitable for him to grow based on data collected all
 over India.
+The key points of the following project would be:-
+ Integrating IoT in Farms and deducing relations between Soil and Environmental Factors with Automated sprinkler system.
+• Tracking Harvesting with hyperspectral Camera using drones
+• Incorporating Farm data into analytics for Optimizing yields including yield estimation using computer Vision and Yield predictive analysis
+• Geo Spatial Analysis of the farm using Satellite Imaging and Data Plotting
+• Building Optimized Computer Vision Models to detect and classify plant diseases
+• Deploying Model Analytics and Visualization on Web Application and Mobile Client for Real time Data Classification.
+•Analysis of Project Impact and Product Viability and Market
