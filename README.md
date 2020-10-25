@@ -46,3 +46,23 @@ The key points of the following project would be:-
 • Building Optimized Computer Vision Models to detect and classify plant diseases
 • Deploying Model Analytics and Visualization on Web Application and Mobile Client for Real time Data Classification.
 •Analysis of Project Impact and Product Viability and Market
+
+Agriculture, a $2.4 trillion industry, is a foundation of economies worldwide. Factors such as climate change, population growth and food security concerns have propelled the industry into seeking more innovative approaches to protecting and improving crop yield. As a result, artificial intelligence is steadily emerging as part of the industry’s technological evolution.
+
+Together with IBM Watson and The Weather Company, teams from IBM Research-Brazil and IBM Research-India designed and built a suite of agribusiness tools and solutions to help the agriculture industry use the power of AI to make more informed decisions about their crops – the Watson Decision Platform for Agriculture.
+
+Underpinning the platform, IBM PAIRS GEOSCOPE processes some of the satellite data and serves as storage component in the current system architecture. By aggregating and analyzing terabytes of multi-layer geospatial data using machine learning and advanced analytics, PAIRS allows us to store and run queries on the geo-referenced data.
+
+Four of the APIs included in this new platform come from our global labs.
+
+Yield History and Forecast for Corn
+This API uses big data and machine learning to predict yield for corn crops two to three months in advance with only a limited amount of data and computing power. Our system enables high-speed yield forecasts at a very high resolution (20 meters), generating personalized insights for farmers. The models  can also be used to determine yields for past growing seasons — critical for validation of agriculture insurance claims and risk, optimizing supply-and-demand chain logistics and predicting commodity prices.
+
+Disease & Pest Indicators for Corn
+This API service predicts the risks in corn production, leveraging hyper-local weather forecast details (temperature, relative humidity, precipitation, etc.) from The Weather Company and crop specific inputs (sowing date, growth stage, etc.) to model the outbreak probability of various pests and diseases. It also considers transport of the spore that triggers the disease. The advance notice for disease could help farmers reduce pesticide usage and take preventive or curative measures to avoid any unexpected yield loss.
+
+High Definition Normalized Difference Vegetation Index (HD-NDVI) for Crop Health Monitoring
+HD-NDVI uses geospatial and satellite data to identify crop type and crop growth stage at a high resolution, 30 meters. The insights from this API could be used to assess crop health, determine fertilizer, pesticide and irrigation schedules, validate crop insurance clams, predict yield, and reduce risk in commodity trading. With this level of insight, farmers could take preventive actions (pesticide application, fertilizer or nutrient application, etc) to preserve and improve the health of their crops.
+
+High Definition Soil Moisture (HD-SM)
+HD-SM is a high resolution, real-time measurement tool that monitors soil moisture at multiple depths (up to one meter) using a combination of AI algorithms and physical models along with several satellite and weather model data sets. Satellite data is combined with terrain data (such as land type, vegetation type, atmospheric parameters and solar radiation) from land surface models which is used to simulate changes in soil moisture
